@@ -1,0 +1,86 @@
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\Board_Count.exe.config
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\Board_Count.exe
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\Board_Count.pdb
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\EntityFramework.dll
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\EntityFramework.SqlServer.dll
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.dll
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.EF6.dll
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.Linq.dll
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\EntityFramework.xml
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\EntityFramework.SqlServer.xml
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.xml
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.AssemblyReference.cache
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.Form1.resources
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.Properties.Resources.resources
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.GenerateResource.cache
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.CoreCompileInputs.cache
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.CopyComplete
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.exe
+D:\g947\VS19repos\Board_Count\Board_Count\obj\Debug\Board_Count.pdb
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\System.CodeDom.dll
+D:\g947\VS19repos\Board_Count\Board_Count\bin\Debug\System.CodeDom.xml
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\Board_Count.exe.config
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\Board_Count.exe
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\Board_Count.pdb
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\EntityFramework.dll
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\EntityFramework.SqlServer.dll
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\System.CodeDom.dll
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.dll
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.EF6.dll
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.Linq.dll
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\EntityFramework.xml
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\EntityFramework.SqlServer.xml
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\System.CodeDom.xml
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\bin\Debug\System.Data.SQLite.xml
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.AssemblyReference.cache
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.Form1.resources
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.Properties.Resources.resources
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.GenerateResource.cache
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.CoreCompileInputs.cache
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.csproj.CopyComplete
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.exe
+D:\g947\VS19repos\BoardCount\Board_Count\Board_Count\obj\Debug\Board_Count.pdb
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\Board_Count.exe.config
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\Board_Count.exe
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\Board_Count.pdb
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\EntityFramework.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\EntityFramework.SqlServer.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\System.CodeDom.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\System.Data.SQLite.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\System.Data.SQLite.EF6.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\System.Data.SQLite.Linq.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\EntityFramework.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\EntityFramework.SqlServer.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\System.CodeDom.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\bin\Debug\System.Data.SQLite.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.csproj.AssemblyReference.cache
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.Form1.resources
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.Properties.Resources.resources
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.csproj.GenerateResource.cache
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.csproj.CoreCompileInputs.cache
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.csproj.CopyComplete
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.exe
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.pdb
+D:\G947\VS19repos\BoardCount\Board_Count - 複製\Board_Count\obj\Debug\Board_Count.Form2.resources
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\Board_Count.exe.config
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\Board_Count.exe
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\Board_Count.pdb
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\EntityFramework.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\EntityFramework.SqlServer.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\System.CodeDom.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\System.Data.SQLite.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\System.Data.SQLite.EF6.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\System.Data.SQLite.Linq.dll
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\EntityFramework.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\EntityFramework.SqlServer.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\System.CodeDom.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\bin\Debug\System.Data.SQLite.xml
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.csproj.AssemblyReference.cache
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.Form2.resources
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.Form1.resources
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.Properties.Resources.resources
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.csproj.GenerateResource.cache
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.csproj.CoreCompileInputs.cache
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.csproj.CopyComplete
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.exe
+D:\G947\VS19repos\BoardCount\Board_Count - 改\Board_Count\obj\Debug\Board_Count.pdb
